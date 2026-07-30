@@ -1,0 +1,151 @@
+# PROJECT DOCUMENTATION
+
+## Project Title
+
+**Virtual Queue Management Mobile Application for University Service Points**
+
+---
+
+# 1. Introduction
+
+The Virtual Queue Management Mobile Application is a smartphone application designed to help students access university services more efficiently. Instead of waiting in long physical queues, users can join a queue using their phones, check their queue position, receive updates, and confirm when they have been served.
+
+University offices such as the Registry, Finance Office, Accommodation Office, and University Clinic often have long queues, especially during registration and fee payment periods. This wastes students' time and creates overcrowding.
+
+This project uses Human–Computer Interaction (HCI) principles to design a simple, user-friendly, and accessible mobile application prototype using Balsamiq. The focus is on creating a good user experience rather than developing a fully functional application.
+
+---
+
+# 2. Background of the Project
+
+Many universities still use manual queuing systems where students wait in line to receive services. During busy periods, students may spend a long time waiting without knowing when they will be served.
+
+Since most students own smartphones, a mobile application can make queue management easier. Students can join a queue remotely, receive updates on their position, and only go to the office when their turn is near. This saves time, reduces overcrowding, and improves service delivery.
+
+---
+
+# 3. Problem Statement
+
+Students often spend a lot of time waiting in queues at university offices such as the Registry, Finance Office, Accommodation Office, and Clinic. Manual queues are slow, crowded, and do not provide information about waiting time or queue progress.
+
+Because students must wait physically, they may miss classes and other important activities. Long queues also make it difficult for staff to serve students efficiently.
+
+A mobile application is needed to allow students to join queues remotely, track their queue position, receive notifications, and reduce unnecessary waiting.
+
+---
+
+# 4. Project Goal
+
+To design a user-friendly mobile application that helps students join and manage university service queues using their smartphones.
+
+---
+
+# 5. Project Objectives
+
+## Main Objective
+
+To design a user-friendly Virtual Queue Management Mobile Application prototype for university students.
+
+### Specific Objectives
+
+* Allow users to register and log in.
+* Display available university service points.
+* Allow users to choose a service point.
+* Enable users to join a virtual queue.
+* Show the user's queue position and estimated waiting time.
+* Send notifications as the queue progresses.
+* Allow users to leave the queue if necessary.
+* Allow users to confirm when they have received the service.
+* Design a simple and easy-to-use interface.
+* Apply HCI principles to improve usability and user experience.
+
+---
+
+# 6. Project Scope
+
+This project focuses on designing a mobile application prototype for managing queues at university service points.
+
+The project includes:
+
+* User research
+* User requirements
+* User personas
+* User journeys
+* Task flows
+* Low-fidelity sketches
+* Balsamiq wireframes
+* Usability testing
+* Prototype improvements
+
+The project does not include coding, database development, or deployment. It only focuses on designing and evaluating the mobile application.
+
+---
+
+# 7. Target Users
+
+The application is designed for:
+
+### Students
+
+Students use the application to join queues, check their position, receive updates, and confirm service completion.
+
+### University Staff
+
+Staff use the system to manage queues and provide services more efficiently.
+
+### Visitors
+
+Visitors such as parents, applicants, and alumni can also use the application to join queues before visiting university offices.
+
+### University Administration
+
+The university benefits from improved service delivery, reduced congestion, and better management of service points.
+
+---
+
+# 8. Expected Benefits
+
+### Benefits to Students
+
+* Saves time.
+* Reduces waiting in long queues.
+* Provides real-time queue updates.
+* Improves convenience.
+
+### Benefits to University Staff
+
+* Makes queue management easier.
+* Reduces overcrowding.
+* Improves communication with students.
+* Increases efficiency.
+
+### Benefits to the University
+
+* Improves service delivery.
+* Reduces congestion.
+* Increases student satisfaction.
+* Supports digital transformation.
+
+---
+
+# 9. Human–Computer Interaction (HCI) Considerations
+
+The application is designed using HCI principles, including:
+
+* Showing users their current queue status.
+* Providing immediate feedback after each action.
+* Using a consistent and simple interface.
+* Preventing user errors through confirmation messages.
+* Using clear labels and icons.
+* Making the application easy to use and accessible.
+* Giving users control to leave the queue or confirm service completion.
+
+These principles help make the application simple, efficient, and user-friendly.
+
+---
+
+# 10. Conclusion
+
+The Virtual Queue Management Mobile Application provides a simple solution to the problem of long queues at university service points. It allows students to join queues remotely, receive updates, and manage their waiting time more effectively.
+
+By following Human–Computer Interaction principles, the application improves usability, reduces waiting time, and creates a better experience for students, staff, and visitors.

@@ -1,0 +1,94 @@
+# USER PERSONAS
+
+## Introduction
+
+User personas are fictional profiles that represent the main users of the Virtual Queue Management Mobile Application. They are based on the needs and challenges identified during user research and help guide the design of a user-friendly application.
+
+---
+
+# Persona 1: Faith Wambui
+
+### Personal Information
+
+* **Name:** Faith Wambui
+* **Age:** 21 years
+* **Occupation:** Third-Year University Student
+* **Education Level:** Undergraduate
+* **Technology Experience:** High (uses a smartphone daily)
+
+### Background
+
+Faith is a full-time university student who frequently visits the Registry and Finance Office for services such as fee payment, course registration, and academic clearance. She often experiences long waiting times, especially during registration periods.
+
+### Goals
+
+* Join a queue without standing in line.
+* Know how long she will wait before being served.
+* Receive updates about her queue position.
+* Save time for classes and studying.
+
+### Frustrations
+
+* Long waiting lines.
+* Missing lectures while waiting.
+* No information about queue progress.
+* Overcrowded service offices.
+
+### Needs
+
+* A simple and easy-to-use mobile application.
+* Real-time queue updates.
+* Notifications when her turn is near.
+* The ability to leave the queue if plans change.
+
+---
+
+# Persona 2: Brian Mwangi
+
+### Personal Information
+
+* **Name:** Brian Mwangi
+* **Age:** 24 years
+* **Occupation:** Final-Year University Student
+* **Education Level:** Undergraduate
+* **Technology Experience:** Moderate
+
+### Background
+
+Brian regularly visits the Accommodation Office and University Clinic. He prefers using mobile applications because they save time and make services more convenient.
+
+### Goals
+
+* Reduce the time spent waiting in queues.
+* Plan his day using the estimated waiting time.
+* Receive reminders before his turn.
+* Complete services quickly.
+
+# Frustrations
+
+* Crowded waiting areas.
+* Uncertainty about waiting time.
+* Wasting time in physical queues.
+* Delays in receiving services.
+
+### Needs
+
+* Accurate queue information.
+* Easy navigation within the application.
+* Clear notifications.
+* A fast and reliable queue management system.
+
+
+---
+
+# Design Implications
+
+The personas show that users need a mobile application that is:
+
+* Simple and easy to use.
+* Fast and responsive.
+* Able to display real-time queue information.
+* Capable of sending notifications when the user's turn is approaching.
+* Accessible from anywhere using a smartphone.
+
+These personas guided the design decisions for the Virtual Queue Management Mobile Application and helped ensure that the prototype meets the needs of its intended users.

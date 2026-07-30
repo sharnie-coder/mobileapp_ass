@@ -16,6 +16,29 @@ University students often spend a lot of time waiting in queues at service point
 
 ---
 
+## Objectives
+
+Main Objective
+
+-To design an user-friendly Virtual Queue Management Mobile Application prototype that enables university students to join, monitor, and manage service queues using their smartphones.
+
+Specific Objectives
+-Allow users to register and log into the application securely.
+-Display available university service points.
+-Allow users to select a preferred service point.
+-Enable users to join a virtual queue from any location.
+-Display the user's current queue number and position.
+-Show an estimated waiting time.
+-Notify users as their turn approaches.
+-Allow users to leave the queue if they no longer require the service.
+-Enable users to confirm completion of service.
+-Provide a simple, accessible, and touch-friendly mobile interface.
+-Apply HCI principles to improve usability and user satisfaction.
+
+
+
+---
+
 ## Target Users
 
 - Undergraduate Students
@@ -44,18 +67,18 @@ QueueEase is a mobile application prototype developed using **Balsamiq** as part
 
 ## Team Members
 
-| Name | Registration Number |
-|------|---------------------|
-| Mary Sharnice | C027-01-2727/2024 |
-| Jimmy Kibet | C027-01-0887/2024 |
-| Victor Macharia | C027-01-0849/2024 |
-| Mildred Kuria | C027-01-0857/2024 |
-| Faith Gitahi | C027-01-0889/2024 |
-| Naigu Metrine | C027-01-0892/2024 |
-| Yvonne Makau | C027-01-0860/2024 |
-| Sabina Wairimu | C027-01-2709/2024 |
-| Ruth Njeri | C027-01-0888/2024 |
-| Irene Njuguna | C027-01-0834/2024 |
+| Name           | Registration Number 
+
+| Mary Sharnice   - C027-01-2727/2024 
+| Jimmy Kibet     - C027-01-0887/2024 
+| Victor Macharia - C027-01-0849/2024 
+| Mildred Kuria   - C027-01-0857/2024 
+| Faith Gitahi    - C027-01-0889/2024 
+| Naigu Metrine   - C027-01-0892/2024 
+| Yvonne Makau    - C027-01-0860/2024
+| Sabina Wairimu  - C027-01-2709/2024 
+| Ruth Njeri      - C027-01-0888/2024 
+| Irene Njuguna   - C027-01-0834/2024 
 
 ---
 
