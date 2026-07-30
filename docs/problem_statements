@@ -1,0 +1,51 @@
+# Problem Statement & Scope
+
+ PROBLEM STATEMENT:
+
+Universities often rely on physical queues at service points such as the Registry, Finance Office, Clinic, and Accommodation Office. Students are required to stand in long lines to access services, resulting in wasted time, overcrowding, frustration, and delays. There is little visibility into queue progress, making it difficult for students to estimate waiting times or plan their schedules effectively.
+
+The current queuing process also places pressure on university staff, who must manually manage queues and respond to repeated inquiries from students about their position in line. During peak periods such as registration, fee payment, hostel allocation, and medical visits, the situation becomes even more challenging.
+
+The proposed Virtual Queue Management Mobile App will allow students to join queues remotely, monitor their queue position in real time, receive notifications as their turn approaches, and complete their visits more efficiently. This will reduce congestion, improve service delivery, and enhance the overall user experience
+
+WHO IS AFFECTED:
+
+- Students seeking university services.
+- Registry staff.
+- Finance Office staff.
+- University Clinic staff.
+- Accommodation Office staff.
+
+## Project Scope
+
+### Service Points in Scope
+
+- Registry
+- Finance Office
+- University Clinic
+- Accommodation Office
+
+### What the App Will Do
+
+- Allow users to select a service point.
+- Enable students to join a virtual queue.
+- Display the student's current queue position.
+- Provide real-time queue progress updates and notifications.
+- Allow users to leave the queue.
+- Allow users to confirm service completion.
+
+### What the App Will Not Do
+
+- Process fee payments.
+- Handle medical records or diagnosis.
+- Perform course registration.
+- Manage hostel room allocation.
+- Replace existing university management systems.
+
+## Project Objectives
+
+1. Reduce physical queues at university service points.
+2. Improve the student waiting experience.
+3. Provide real-time queue updates and notifications.
+4. Improve efficiency for university staff.
+5. Design a user-friendly mobile application that follows Human-Computer Interaction (HCI) principles.
