@@ -45,6 +45,9 @@ Mobile usability requirements are non-functional constraints aligned with Nielse
 ### UR-06: Minimalist & High-Contrast Design
 * **Requirement:** Information must be easily readable in outdoor campus conditions (bright sunlight) while walking.
 * **HCI Rule:** High-contrast text elements (contrast ratio of at least 4.5:1), large typography for ticket numbers (minimum 24pt bold), and zero clutter on primary task screens.
+### UR-07: Mobile Accessibility & Inclusivity (WCAG 2.1 AA)
+* **Requirement:** The app must be fully usable by students with visual or motor impairments.
+* **HCI Rule:** All visual controls must support system screen readers (TalkBack on Android, VoiceOver on iOS). Color alone must never be used to convey status (e.g., pair red/green indicator badges with text labels like "Open" or "Closed").
 
 ---
 
