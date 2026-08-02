@@ -15,6 +15,8 @@ Functional requirements define the core capabilities, operations, and services t
 | **FR-07** | Counter Navigation / Guidance | The app shall display target counter details (e.g., *"Proceed to Desk 4, Ground Floor Room 102"*) upon being called. | Medium (Should Have) |
 | **FR-08** | Service Completion & Feedback | The app shall prompt users upon service completion to rate their experience (1–5 stars) and optionally submit brief feedback. | Low (Nice to Have) |
 | **FR-09** | Queue History | The app shall maintain a historical log of past queue tickets and completed service visits for student record-keeping. | Low (Nice to Have) |
+| **FR-10** | Priority Access | The system shall support priority queue ticketing for accessibility accommodation and emergency appointments. | Medium (Should Have) |
+| **FR-11** | Operating Hours Alert | The app shall prevent joining a queue 15 minutes prior to service point closing time and notify the user. | Low (Nice to Have) |
 
 ---
 
