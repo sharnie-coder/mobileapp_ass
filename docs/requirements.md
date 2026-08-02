@@ -57,3 +57,13 @@ Mobile usability requirements are non-functional constraints aligned with Nielse
 | **Flexibility & Efficiency** | FR-05 | "Snooze Queue" action button for delayed students. |
 | **Aesthetics & Minimalism** | UR-06 | Clean card layout for service selection; large touch buttons. |
 | **Feedback** | FR-04, UR-03 | Push alerts, sound, and haptics when called to counter. |
+---
+
+## 4. Non-Functional Technical Requirements (NFR)
+
+| ID | Category | Requirement Description | Target Metric |
+| :--- | :--- | :--- | :--- |
+| **NFR-01** | Performance | App must update live queue positions seamlessly. | Latency under 2.0s over 3G/4G/5G |
+| **NFR-02** | Security | Student IDs and authentication tokens must be encrypted in transit and at rest. | HTTPS / TLS 1.3 Encryption |
+| **NFR-03** | Availability | Virtual queue system must maintain high uptime during peak enrollment weeks. | 99.5% Operational Uptime |
+| **NFR-04** | Battery & Data | Background push notifications must minimize battery and mobile data usage. | < 5MB data usage per session |
