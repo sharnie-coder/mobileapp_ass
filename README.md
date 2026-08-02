@@ -67,18 +67,18 @@ QueueEase is a mobile application prototype developed using **Balsamiq** as part
 
 ## Team Members
 
-| Name           | Registration Number 
-
-| Mary Sharnice   - C027-01-2727/2024 
-| Jimmy Kibet     - C027-01-0887/2024 
-| Victor Macharia - C027-01-0849/2024 
-| Mildred Kuria   - C027-01-0857/2024 
-| Faith Gitahi    - C027-01-0889/2024 
-| Naigu Metrine   - C027-01-0892/2024 
-| Yvonne Makau    - C027-01-0860/2024
-| Sabina Wairimu  - C027-01-2709/2024 
-| Ruth Njeri      - C027-01-0888/2024 
-| Irene Njuguna   - C027-01-0834/2024 
+| Name           | Registration Number    |
+|----------------|-------------------------|
+| Mary Sharnice  | C027-01-2727/2024       |
+| Jimmy Kibet    | C027-01-0887/2024       |
+| Victor Macharia| C027-01-0849/2024       |
+| Mildred Kuria  | C027-01-0857/2024       |
+| Faith Gitahi   | C027-01-0889/2024       |
+| Naigu Metrine  | C027-01-0892/2024       |
+| Yvonne Makau   | C027-01-0860/2024       |
+| Sabina Wairimu | C027-01-2709/2024       |
+| Ruth Njeri     | C027-01-0888/2024       |
+| Irene Njuguna  | C027-01-0834/2024       |
 
 ---
 
@@ -97,7 +97,6 @@ mobileapp_ass/
 ---
 
 ## Project Status
-
 **Current Phase:** Week 1 – User Research, GitHub Setup, and Project Planning.
                    Week 2 - Completed the Queue Confirmation screen in Balsamiq.
 
