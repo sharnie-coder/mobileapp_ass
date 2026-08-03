@@ -31,3 +31,32 @@ View their current queue position.
 Receive real-time notifications.
 Track estimated waiting time.
 Confirm service completion after being served.
+
+
+
+# Supporting Evidence from User Research
+
+## 1. Evidence of Frustration with Physical Queues
+- **Quantitative:** 100% of participants reported waiting in a university queue at least once a week. 80% reported waiting over 30 minutes.
+- **Qualitative:** Participants used words like "exhausted," "frustrating," "waste of time," and "unpredictable" to describe their experiences.
+- **Implication:** There is a clear and measurable need for a solution to improve the efficiency and experience of waiting for university services.
+
+## 2. Evidence for Feature Demand
+- **Queue Position:** This was the single most requested feature, mentioned directly by all 5 participants.
+- **Estimated Wait Time:** Mentioned explicitly by 4 out of 5 participants as a "must-have" feature.
+- **Notifications:** 4 out of 5 participants preferred push notifications, demonstrating a need for the app to work in the background and alert the user only when action is needed.
+- **Implication:** The core features of the app (position, ETA, notifications) are directly driven by user demand.
+
+## 3. Evidence for Design Priorities (Trust and Reliability)
+- **Concern:** 100% of participants expressed some concern about reliability, with "missing a turn" and "glitches" being the top fears.
+- **Implication:** The interface must be designed to build trust. This can be achieved through:
+    - **Clarity:** Clear, unambiguous language.
+    - **Feedback:** Immediate confirmation of actions.
+    - **Transparency:** Possibly showing the average time to be served to justify the ETA.
+
+## 4. Evidence Supporting Personas
+- **Persona 1: "Busy Beatrice"** is supported by P1 and P4's frustrations about wasting valuable time, missing classes, and the need to multitask.
+- **Persona 2: "Organized Oliver"** is supported by P2 and P5's desire for structure, predictability, and an "obvious" design to manage their day effectively.
+
+## Conclusion
+The user research provides strong, qualitative, and quantitative evidence that a Virtual Queue Management App would be highly valued by students. The findings have been instrumental in shaping the feature set, the design priorities, and the HCI focus of the project.
