@@ -99,5 +99,6 @@ mobileapp_ass/
 ## Project Status
 **Current Phase:** Week 1 – User Research, GitHub Setup, and Project Planning.
                    Week 2 - Completed the Queue Confirmation screen in Balsamiq.
+                   Week 3 - 
 
 This README will be updated throughout the project as additional documentation, wireframes, usability testing results, and the final prototype are completed.
