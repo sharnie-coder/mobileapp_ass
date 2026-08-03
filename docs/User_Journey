@@ -1,0 +1,49 @@
+# User Journey
+
+## Introduction
+
+A user journey describes the steps a user follows when interacting with the Virtual Queue Management Mobile Application. It helps identify the user's goals, actions, experiences, and areas where the application can improve usability and overall satisfaction.
+
+---
+
+# User Journey Table
+
+| Stage | User Goal | User Action | User Experience | System Response |
+|------|-----------|-------------|-----------------|-----------------|
+| **Need a Service** | Access a university service. | Decides to visit the Registry, Finance Office, Clinic, or Accommodation Office. | Concerned about long waiting times. | The app allows users to check available services before joining a queue. |
+| **Open the App** | Access the queue management system. | Opens the Virtual Queue Management App. | The app opens quickly and is easy to navigate. | Displays the home screen with available options. |
+| **Log In** | Access a personal account securely. | Enters login credentials and signs in. | Login process is simple and secure. | Displays the user dashboard after successful login. |
+| **Select Service Point** | Choose the required service. | Selects a service point from the list. | Easily identifies the correct service. | Displays queue details and estimated waiting time. |
+| **Join Queue** | Reserve a place in the queue. | Taps the **Join Queue** button. | Feels confident after joining successfully. | Assigns a queue number and confirms successful registration. |
+| **Monitor Queue** | Track queue progress. | Views queue position and waiting time. | Stays informed while waiting. | Updates queue position automatically in real time. |
+| **Receive Notification** | Know when it is almost their turn. | Receives a notification from the app. | Feels prepared and avoids missing the turn. | Sends a reminder when the user's turn is approaching. |
+| **Receive Service** | Complete the required service. | Visits the selected office when notified. | Receives the service with minimal waiting. | Updates the queue after the user has been served. |
+| **Confirm Completion** | Finish the queue process. | Taps **Confirm Service Completion**. | Satisfied with the overall experience. | Removes the user from the queue and displays a confirmation message. |
+
+---
+
+# Key Pain Points
+
+- Long waiting times at university service offices.
+- Overcrowded waiting areas.
+- Lack of information about queue progress.
+- Missing classes while waiting.
+- Uncertainty about when the service will be received.
+
+---
+
+# Opportunities
+
+The application improves the user experience by:
+
+- Allowing users to join queues remotely.
+- Displaying real-time queue position and waiting time.
+- Sending notifications when the user's turn is approaching.
+- Reducing overcrowding at service points.
+- Saving time and improving service efficiency.
+
+---
+
+# Expected Outcome
+
+The Virtual Queue Management Mobile Application enables students to manage university service queues more efficiently. Users can join queues from anywhere, monitor their progress, receive timely notifications, and arrive only when their turn is near. This reduces waiting time, improves service delivery, and provides a better user experience for both students and university staff.
