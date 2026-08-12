@@ -40,10 +40,14 @@ Specific Objectives
 ---
 
 ## Target Users
+1. Students 
+Students are the primary users because they frequently access university service points such as the registry, finance office, accommodation office, and university clinic. They often experience long waiting times, especially during registration, fee payment, examination periods . The mobile application enables students to join virtual queues, monitor their queue position, receive notifications, and arrive only when it is almost their turn. This reduces waiting time, minimizes overcrowding, and improves the overall student experience.
 
-- Undergraduate Students
-- Postgraduate Students
-- University Staff
+2. University Staff
+University staff use the application to manage queues, monitor the number of waiting users, update queue progress, and mark services as completed. The system helps staff organize service delivery efficiently and reduces confusion at service counters.
+
+3. Visitors
+Visitors, such as parents, alumni, prospective students, and external guests, may occasionally require services from university offices. The application allows them to join queues easily and receive updates without having to wait physically at the service point.
 
 ---
 
@@ -67,20 +71,19 @@ QueueEase is a mobile application prototype developed using **Balsamiq** as part
 
 ## Team Members
 
-| Name           | Registration Number    
+| No. | Name            | Registration Number |
+| --: | --------------- | ------------------- |
+|   1 | Mary Sharnice   | C027-01-2727/2024   |
+|   2 | Jimmy Kibet     | C027-01-0887/2024   |
+|   3 | Victor Macharia | C027-01-0849/2024   |
+|   4 | Mildred Kuria   | C027-01-0857/2024   |
+|   5 | Faith Gitahi    | C027-01-0889/2024   |
+|   6 | Naigu Metrine   | C027-01-0892/2024   |
+|   7 | Yvonne Makau    | C027-01-0860/2024   |
+|   8 | Sabina Wairimu  | C027-01-2709/2024   |
+|   9 | Ruth Njeri      | C027-01-0888/2024   |
+|  10 | Irene Njuguna   | C027-01-0834/2024   |
 
-1. Mary Sharnice  - C027-01-2727/2024       
-2. Jimmy Kibet    - C027-01-0887/2024       
-3. Victor Macharia- C027-01-0849/2024       
-4. Mildred Kuria  - C027-01-0857/2024       
-5. Faith Gitahi   - C027-01-0889/2024       
-6. Naigu Metrine  - C027-01-0892/2024       
-7. Yvonne Makau   - C027-01-0860/2024       
-8. Sabina Wairimu - C027-01-2709/2024       
-9. Ruth Njeri     - C027-01-0888/2024       
-10. Irene Njuguna  -C027-01-0834/2024       
-
----
 
 ## Repository Structure
 
