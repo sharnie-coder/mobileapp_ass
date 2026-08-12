@@ -1,33 +1,73 @@
-## Research Participants
+Supporting Evidence from User Research
+Research Participants
 
-The study was conducted using a Google Forms questionnaire completed by 14 participants from different university user groups. The participants included:
+The research was conducted with five university students who regularly access university services.
 
+Participant	Frequently Used Service
+Student 1	Registry
+Student 2	Finance Office
+Student 3	Accommodation Office
+Student 4	University Clinic
+Student 5	Registry
+Evidence Collected
 
-9 Students	(64.3%)
-3 Non-Teaching Staff (21.4%)
-1 Teaching Staff (7.1%)
-1 Visitors	(7.1%)
+The following evidence was collected during the research:
 
-Total	14	100%
+Completed questionnaires from five participants.
+Notes from participant responses.
+Summary of common challenges and user suggestions.
+1. Evidence of Frustration with Physical Queues
+Quantitative Findings
+100% of participants reported joining university queues at least once a week.
+80% reported waiting for more than 30 minutes.
+Qualitative Findings
 
-## Evidence Collected
+Participants described their experiences using words such as:
 
-The research collected the following evidence:
+Exhausting
+Frustrating
+Waste of time
+Unpredictable
+Main Challenges Identified
+Long waiting times.
+Overcrowded service offices.
+Uncertainty about queue progress.
+Missing classes or other activities while waiting.
+Lack of information about estimated waiting times.
 
-Responses from a Google Forms questionnaire.
-Participant demographic information.
-Data on queue experiences at different university service points.
-User opinions on virtual queue management.
-Suggestions for improving the current queue system.
-Key Evidence
+Implication: These findings demonstrate a clear need for a more efficient queue management system.
 
-## The research showed that:
+2. Evidence for Feature Demand
 
-Long queues are experienced across several university service points.
-The Finance Office is the busiest service point, followed by the Food's Mess and Accommodation Office.
-Most users prefer joining queues remotely through a mobile application.
-Users want real-time queue updates, estimated waiting times, and notifications before their turn.
-Participants from different user groups—not only students—expressed interest in using a virtual queue management system.
-Research Outcome
+Participants recommended a mobile application with the following features:
 
-The research provides clear evidence that a Virtual Queue Management Mobile Application would address real user needs by reducing waiting time, minimizing congestion, improving communication, and enhancing the overall user experience at university service points.
+Join a virtual queue remotely.
+View current queue position.
+Receive real-time notifications.
+Track estimated waiting time.
+Confirm service completion after being served.
+Most Requested Features
+Queue Position: Requested by all 5 participants.
+Estimated Waiting Time: Requested by 4 out of 5 participants.
+Real-time Notifications: Preferred by 4 out of 5 participants.
+
+Implication: The application's core features are directly based on user needs.
+
+3. Evidence for Design Priorities
+
+All participants expressed concerns about system reliability, particularly:
+
+Missing their turn.
+System glitches or delays.
+
+To build trust, the application should provide:
+
+Clear and simple language.
+Immediate confirmation after every action.
+Accurate queue status and estimated waiting time.
+4. Evidence Supporting User Personas
+Busy Beatrice: Represents students who want to avoid wasting time and missing classes while waiting.
+Organized Oliver: Represents students who value predictability, structure, and an easy-to-use system for planning their day.
+Conclusion
+
+The research provides strong qualitative and quantitative evidence that students experience significant challenges with physical queues. The findings support the development of a Virtual Queue Management App that enables students to join queues remotely, monitor their progress, receive notifications, and reduce unnecessary waiting time while improving access to university servic

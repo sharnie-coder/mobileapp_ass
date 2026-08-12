@@ -1,0 +1,21 @@
+4. Functional Requirements
+User can select a service point (registry, finance, clinic, accommodation office).
+User can join a virtual queue for that service point.
+User can view their current position in the queue.
+User can view an estimated wait time.
+User receives a notification when they are approaching the front of the queue (e.g., "3 people ahead of you").
+User receives a notification when it's their turn.
+User can voluntarily leave/cancel their place in the queue.
+User can confirm service completion or mark themselves as a no-show recovery (rejoin).
+Staff-side view: staff can see the current queue, call the next person, and remove no-shows.
+System must handle multiple simultaneous queues (one per service point).
+5. Mobile Usability Requirements
+Visibility of system status: queue position and wait time must always be visible or one tap away — this is the core HCI principle for this app.
+Minimal input burden: joining a queue should take no more than 2–3 taps.
+Timely, non-intrusive notifications: push notifications must be clear and actionable without being alarming or excessive.
+Touch-friendly targets: all interactive elements sized for one-handed thumb use (minimum ~44x44pt tap targets).
+Error prevention: confirm before a user leaves a queue (avoid accidental loss of place).
+Feedback: every action (joining, leaving, confirming) must give immediate visual confirmation.
+Accessibility: sufficient color contrast, legible font sizes, and support for users with limited dexterity or vision.
+Consistency: navigation patterns and visual language consistent across all screens (e.g., queue cards, status bars, notification banners look the same everywhere).
+Recovery from interruption: if the app is closed or the phone locks, the user can reopen it and immediately see their current queue status without re-navigating.
