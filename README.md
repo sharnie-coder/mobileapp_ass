@@ -74,24 +74,24 @@ QueueEase is a mobile application prototype developed using **Balsamiq** as part
 
 ## Team Members and Individual Design Accountability
 
-The following table maps each team member directly to their assigned interface screens, UX deliverables, research activities, or project documentation to clearly demonstrate individual contribution.
+The table below maps each team member directly to their assigned **interface screens** and **UX/HCI sub-deliverables** for individual contribution and assessment.
 
-| No. | Name | Registration Number | Individual Responsibility / Assigned Deliverables |
-| --: | --- | --- | --- |
-| 1 | Mary Sharnice | C027-01-2727/2024 | **Project repository setup and coordination; User research; Usability testing; Splash Screen; Login Screen; Forgot Password Screen; Homepage; Help & Support screens.** |
-| 2 | Jimmy Kibet | C027-01-0887/2024 | **User Persona development.** |
-| 3 | Victor Macharia | C027-01-0849/2024 | **Task flows and Task Flow documentation.** |
-| 4 | Mildred Kuria | C027-01-0857/2024 | **Target user description.** |
-| 5 | Faith Gitahi | C027-01-0889/2024 | **User research; Usability testing; Profile Screen; Update Profile Screen; Staff Management Screen; Service Control Screen.** |
-| 6 | Naigu Metrine | C027-01-0892/2024 | **Low-fidelity wireframes; Select Service Screen.** |
-| 7 | Yvonne Makau | C027-01-0860/2024 | **Queue Position Screen; Requirements documentation.** |
-| 8 | Sabina Wairimu | C027-01-2709/2024 | **Queue Confirmation Screen.** |
-| 9 | Ruth Njeri | C027-01-0888/2024 | **Notifications Screen; Problem Statement and Project Scope.** |
-| 10 | Irene Njuguna | C027-01-0834/2024 | **Additional interface/design support and project documentation.** |
+| No. | Name | Registration Number | Assigned Interface Screens | Other Assigned Work / Deliverables |
+|---:|---|---|---|---|
+| 1 | **Mary Sharnice** | C027-01-2727/2024 | Splash Screen; Login Screen; Forgot Password Screen; Homepage; Help & Support | GitHub Repository Setup; User Research; Usability Testing; Project Coordination |
+| 2 | **Jimmy Kibet** | C027-01-0887/2024 | — | User Persona |
+| 3 | **Victor Macharia** | C027-01-0849/2024 | — | Task Flows; Task Flow Documentation |
+| 4 | **Mildred Kuria** | C027-01-0857/2024 | — | Target User Description |
+| 5 | **Faith Gitahi** | C027-01-0889/2024 | Profile; Update Profile; Staff Management; Service Control | User Research; Usability Testing |
+| 6 | **Naigu Metrine** | C027-01-0892/2024 | Select Service | Low-Fidelity Wireframes |
+| 7 | **Yvonne Makau** | C027-01-0860/2024 | Queue Position | Requirements Documentation |
+| 8 | **Sabina Wairimu** | C027-01-2709/2024 | Queue Confirmation | — |
+| 9 | **Ruth Njeri** | C027-01-0888/2024 | Notifications | Problem Statement; Project Scope |
+| 10 | **Irene Njuguna** | C027-01-0834/2024 | — | Additional Interface Design Support; Project Documentation |
 
-### Contribution Clarification
+### Contribution and Accountability
 
-Individual responsibilities are assigned to specific screens and UX/HCI deliverables so that each member's contribution can be identified and assessed independently. Team members also collaborated during research, usability testing, design reviews, and iteration of the prototype.
+Each member has been assigned specific interface screens and/or UX/HCI deliverables. The assignments provide clear individual accountability for grading while allowing the team to collaborate during research, usability testing, design reviews, feedback sessions, and prototype iterations.
 
 ---
 
