@@ -78,16 +78,16 @@ The table below maps each team member directly to their assigned **interface scr
 
 | No. | Name | Registration Number | Assigned Interface Screens | Other Assigned Work / Deliverables |
 |---:|---|---|---|---|
-| 1 | **Mary Sharnice** | C027-01-2727/2024 | Splash Screen; Login Screen; Forgot Password Screen; Homepage; Help & Support | GitHub Repository Setup; User Research; Usability Testing; Project Coordination |
-| 2 | **Jimmy Kibet** | C027-01-0887/2024 | — | User Persona |
+| 1 | **Mary Sharnice** | C027-01-2727/2024 | Splash Screen; Login Screen; Forgot Password Screen; | GitHub Repository Setup; User Research; Usability Testing; Project Coordination |
+| 2 | **Jimmy Kibet** | C027-01-0887/2024 |  Service Control | User Persona |
 | 3 | **Victor Macharia** | C027-01-0849/2024 | — | Task Flows; Task Flow Documentation |
-| 4 | **Mildred Kuria** | C027-01-0857/2024 | — | Target User Description |
-| 5 | **Faith Gitahi** | C027-01-0889/2024 | Profile; Update Profile; Staff Management; Service Control | User Research; Usability Testing |
+| 4 | **Mildred Kuria** | C027-01-0857/2024 | Homepage  | Target User Description |
+| 5 | **Faith Gitahi** | C027-01-0889/2024 | Profile; Update Profile; Staff Management; | User Research; Usability Testing |
 | 6 | **Naigu Metrine** | C027-01-0892/2024 | Select Service | Low-Fidelity Wireframes |
 | 7 | **Yvonne Makau** | C027-01-0860/2024 | Queue Position | Requirements Documentation |
 | 8 | **Sabina Wairimu** | C027-01-2709/2024 | Queue Confirmation | — |
 | 9 | **Ruth Njeri** | C027-01-0888/2024 | Notifications | Problem Statement; Project Scope |
-| 10 | **Irene Njuguna** | C027-01-0834/2024 | — | Additional Interface Design Support; Project Documentation |
+| 10 | **Irene Njuguna** | C027-01-0834/2024 |  Help & Support | Additional Interface Design Support; Project Documentation |
 
 ### Contribution and Accountability
 
