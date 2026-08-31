@@ -18,35 +18,38 @@ University students often spend a lot of time waiting in queues at service point
 
 ## Objectives
 
-Main Objective
+### Main Objective
 
--To design an user-friendly Virtual Queue Management Mobile Application prototype that enables university students to join, monitor, and manage service queues using their smartphones.
+- To design a user-friendly Virtual Queue Management Mobile Application prototype that enables university students to join, monitor, and manage service queues using their smartphones.
 
-Specific Objectives
--Allow users to register and log into the application securely.
--Display available university service points.
--Allow users to select a preferred service point.
--Enable users to join a virtual queue from any location.
--Display the user's current queue number and position.
--Show an estimated waiting time.
--Notify users as their turn approaches.
--Allow users to leave the queue if they no longer require the service.
--Enable users to confirm completion of service.
--Provide a simple, accessible, and touch-friendly mobile interface.
--Apply HCI principles to improve usability and user satisfaction.
+### Specific Objectives
 
-
+- Allow users to register and log into the application securely.
+- Display available university service points.
+- Allow users to select a preferred service point.
+- Enable users to join a virtual queue from any location.
+- Display the user's current queue number and position.
+- Show an estimated waiting time.
+- Notify users as their turn approaches.
+- Allow users to leave the queue if they no longer require the service.
+- Enable users to confirm completion of service.
+- Provide a simple, accessible, and touch-friendly mobile interface.
+- Apply HCI principles to improve usability and user satisfaction.
 
 ---
 
 ## Target Users
-1. Students 
-Students are the primary users because they frequently access university service points such as the registry, finance office, accommodation office, and university clinic. They often experience long waiting times, especially during registration, fee payment, examination periods . The mobile application enables students to join virtual queues, monitor their queue position, receive notifications, and arrive only when it is almost their turn. This reduces waiting time, minimizes overcrowding, and improves the overall student experience.
 
-2. University Staff
+### 1. Students
+
+Students are the primary users because they frequently access university service points such as the registry, finance office, accommodation office, and university clinic. They often experience long waiting times, especially during registration, fee payment, and examination periods. The mobile application enables students to join virtual queues, monitor their queue position, receive notifications, and arrive only when it is almost their turn. This reduces waiting time, minimizes overcrowding, and improves the overall student experience.
+
+### 2. University Staff
+
 University staff use the application to manage queues, monitor the number of waiting users, update queue progress, and mark services as completed. The system helps staff organize service delivery efficiently and reduces confusion at service counters.
 
-3. Visitors
+### 3. Visitors
+
 Visitors, such as parents, alumni, prospective students, and external guests, may occasionally require services from university offices. The application allows them to join queues easily and receive updates without having to wait physically at the service point.
 
 ---
@@ -69,25 +72,32 @@ QueueEase is a mobile application prototype developed using **Balsamiq** as part
 
 ---
 
-## Team Members
+## Team Members and Individual Design Accountability
 
-| No. | Name            | Registration Number |
-| --: | --------------- | ------------------- |
-|   1 | Mary Sharnice   | C027-01-2727/2024   |
-|   2 | Jimmy Kibet     | C027-01-0887/2024   |
-|   3 | Victor Macharia | C027-01-0849/2024   |
-|   4 | Mildred Kuria   | C027-01-0857/2024   |
-|   5 | Faith Gitahi    | C027-01-0889/2024   |
-|   6 | Naigu Metrine   | C027-01-0892/2024   |
-|   7 | Yvonne Makau    | C027-01-0860/2024   |
-|   8 | Sabina Wairimu  | C027-01-2709/2024   |
-|   9 | Ruth Njeri      | C027-01-0888/2024   |
-|  10 | Irene Njuguna   | C027-01-0834/2024   |
+The following table maps each team member directly to their assigned interface screens, UX deliverables, research activities, or project documentation to clearly demonstrate individual contribution.
 
+| No. | Name | Registration Number | Individual Responsibility / Assigned Deliverables |
+| --: | --- | --- | --- |
+| 1 | Mary Sharnice | C027-01-2727/2024 | **Project repository setup and coordination; User research; Usability testing; Splash Screen; Login Screen; Forgot Password Screen; Homepage; Help & Support screens.** |
+| 2 | Jimmy Kibet | C027-01-0887/2024 | **User Persona development.** |
+| 3 | Victor Macharia | C027-01-0849/2024 | **Task flows and Task Flow documentation.** |
+| 4 | Mildred Kuria | C027-01-0857/2024 | **Target user description.** |
+| 5 | Faith Gitahi | C027-01-0889/2024 | **User research; Usability testing; Profile Screen; Update Profile Screen; Staff Management Screen; Service Control Screen.** |
+| 6 | Naigu Metrine | C027-01-0892/2024 | **Low-fidelity wireframes; Select Service Screen.** |
+| 7 | Yvonne Makau | C027-01-0860/2024 | **Queue Position Screen; Requirements documentation.** |
+| 8 | Sabina Wairimu | C027-01-2709/2024 | **Queue Confirmation Screen.** |
+| 9 | Ruth Njeri | C027-01-0888/2024 | **Notifications Screen; Problem Statement and Project Scope.** |
+| 10 | Irene Njuguna | C027-01-0834/2024 | **Additional interface/design support and project documentation.** |
+
+### Contribution Clarification
+
+Individual responsibilities are assigned to specific screens and UX/HCI deliverables so that each member's contribution can be identified and assessed independently. Team members also collaborated during research, usability testing, design reviews, and iteration of the prototype.
+
+---
 
 ## Repository Structure
 
-```
+```text
 mobileapp_ass/
 │── docs/
 │── research/
@@ -100,7 +110,10 @@ mobileapp_ass/
 ---
 
 ## Project Status
-**Current Phase:** Week 1 – User Research, GitHub Setup, and Project Planning.
-                   Week 2 - Completed the Queue Confirmation screen in Balsamiq.
-                   week 3 - completed the usability testing and made iterations accordingly
+
+**Current Phase:**
+
+- **Week 1:** User Research, GitHub Setup, and Project Planning completed.
+- **Week 2:** Queue Confirmation screen completed in Balsamiq.
+- **Week 3:** Usability testing completed and design iterations made based on feedback.
 
