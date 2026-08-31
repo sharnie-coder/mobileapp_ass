@@ -85,7 +85,7 @@ The table below maps each team member directly to their assigned **interface scr
 | 5 | **Faith Gitahi** | C027-01-0889/2024 | Profile; Update Profile; Staff Management; | User Research; Usability Testing |
 | 6 | **Naigu Metrine** | C027-01-0892/2024 | Select Service | Low-Fidelity Wireframes |
 | 7 | **Yvonne Makau** | C027-01-0860/2024 | Queue Position | Requirements Documentation |
-| 8 | **Sabina Wairimu** | C027-01-2709/2024 | Queue Confirmation | — |
+| 8 | **Sabina Wairimu** | C027-01-2709/2024 | Queue Confirmation | userfeedback and prevention |
 | 9 | **Ruth Njeri** | C027-01-0888/2024 | Notifications | Problem Statement; Project Scope |
 | 10 | **Irene Njuguna** | C027-01-0834/2024 |  Help & Support | Additional Interface Design Support; Project Documentation |
 
