@@ -80,7 +80,7 @@ The table below maps each team member directly to their assigned **interface scr
 |---:|---|---|---|---|
 | 1 | **Mary Sharnice** | C027-01-2727/2024 | Splash Screen; Login Screen; Forgot Password Screen; | GitHub Repository Setup; User Research; Usability Testing; Project Coordination |
 | 2 | **Jimmy Kibet** | C027-01-0887/2024 |  Service Control | User Persona |
-| 3 | **Victor Macharia** | C027-01-0849/2024 | — | Task Flows; Task Flow Documentation |
+| 3 | **Victor Macharia** | C027-01-0849/2024 | confirm exit queue,welcome | Task Flows; Task Flow Documentation |
 | 4 | **Mildred Kuria** | C027-01-0857/2024 | Homepage  | Target User Description |
 | 5 | **Faith Gitahi** | C027-01-0889/2024 | Profile; Update Profile; Staff Management; | User Research; Usability Testing |
 | 6 | **Naigu Metrine** | C027-01-0892/2024 | Select Service | Low-Fidelity Wireframes |
